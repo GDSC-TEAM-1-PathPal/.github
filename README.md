@@ -80,7 +80,45 @@ Offering a platform where volunteers can provide safe transportation and walking
 #### ❗ ALERT ❗
 챗봇 서비스는 로컬 환경에서 서버를 구동하기 때문에 APK를 통해 설치하면 작동이 안됩니다.
 
+## ❓ How To Use 
 
+### DisabledPerson
+
+<hr>
+
+### 🚘 Car Service
+
+You can request assistance by selecting your desired destination. Set your departure time, starting point, and destination.
+
+### 🚶‍♂️ Walking Service
+
+Select the location where you need assistance. You can send a request by entering the location, time, and details of the assistance needed.
+
+### 🤖 ChatBot Service
+
+There are times when you're curious about where disabled convenience facilities are located. You can find the answer using the chatbot service.
+
+### 🫶 Review Service
+
+You can leave a thank you note for the volunteers who helped you. Share your warm feelings with a star rating!
+
+<hr>
+
+### Volunteer
+
+<hr>
+
+### 🚘 Car Service
+
+You can check the list of people who need help. Select an item you can volunteer for, set the arrival time, and accept the request.
+
+### 🚶‍♂️ Walking Service
+
+You can check the markers of people who need help nearby. Select a marker, set the arrival time, and accept the request.
+
+### 🫶 Review Service
+
+You can check the reviews from those who expressed their gratitude. Read the content and take pride in your good work!
 
 
 
