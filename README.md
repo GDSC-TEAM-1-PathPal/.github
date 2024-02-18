@@ -17,18 +17,47 @@ Offering a platform where volunteers can provide safe transportation and walking
 
 ## App Demo
 
-### 📌 Car Service
-https://github.com/GDSC-TEAM-1-PathPal/PathPal-Flutter/assets/68684425/a5c3a71f-2f83-4108-934c-731915200179
+### 📌 DisabledPerson
 
-https://github.com/GDSC-TEAM-1-PathPal/PathPal-Flutter/assets/68684425/ae35fb71-2ea9-4dcd-a5b8-b53012175a8d
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/f18cc049-3d45-4e47-a6c3-b8ea249c13c7" alt="Image 1" style="width: 100%;">
+      <p>Car Service</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/95817b35-6ee6-4c0e-9491-74682620fff5" alt="Image 2" style="width: 100%;">
+      <p>Walking Service</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/b4e30a96-b604-437d-93a2-02732520b0bd" alt="Image 3" style="width: 100%;">
+      <p>ChatBot Service</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/8f12d35c-d26f-4d8b-9e99-616bf7f5eb0f" alt="Image 4" style="width: 100%;">
+      <p>Review Service</p>
+    </td>
+  </tr>
+</table>
 
-### 📌 Walking Service
-https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/4d4c852e-2869-49c6-8bab-a7772e354aac
+### 📌 Volunteer
 
-https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/74a3deff-33f1-454d-a5e1-e351bf2a01fa
-
-### 📌 ChatBot Service
-https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/11f7f065-6287-41c8-a6db-2d80c35e1deb
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/984984fc-4fc7-40f2-ae14-389b82b2ac90" alt="Image 1" style="width: 100%;">
+      <p>Car Service</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/c371e2f9-bda8-44e1-b7d9-f0ff4ced3915" alt="Image 2" style="width: 100%;">
+      <p>Walking Service</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/b25d9e4c-18d5-487b-a3de-a490e0c40c4c" alt="Image 3" style="width: 100%;">
+      <p>Review Service</p>
+    </td>
+  </tr>
+</table>
 
 ## Architecture
 <img width="1032" alt="스크린샷 2024-02-17 오후 10 23 40" src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/a78dfe7c-12f2-4ee0-aabc-6499b84ff042">
@@ -42,7 +71,18 @@ https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/11f7f065-6287-41c
     - Firestore를 통해 유저 및 기타 데이터를 관리할 수 있게 하였다.
 - ML
 
-## 
+## Execution Method
+
+### For Android User
+1. You can download apk file => [Click Here!](https://drive.google.com/file/d/1oC_NHsz5udntSZruLRWgjBQPuCjOxAWo/view?usp=sharing)
+2. 스마트폰에 설치하여 바로 사용이 가능하다!
+
+#### ❗ ALERT ❗
+챗봇 서비스는 로컬 환경에서 서버를 구동하기 때문에 APK를 통해 설치하면 작동이 안됩니다.
+
+
+
+
 
 
 
