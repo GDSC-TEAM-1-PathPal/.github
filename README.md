@@ -31,6 +31,18 @@ https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/74a3deff-33f1-454
 https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/11f7f065-6287-41c8-a6db-2d80c35e1deb
 
 ## Architecture
+<img width="1032" alt="스크린샷 2024-02-17 오후 10 23 40" src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/a78dfe7c-12f2-4ee0-aabc-6499b84ff042">
+
+ - FrontEnd
+   - Flutter를 이용하여 앱 개발을 진행하였다.
+   - 구글 지도 플랫폼을 이용하여 지도 API를 사용하였다.
+- BackEnd
+  - Firebase를 이용하여 앱 데이터 저장 및 관리를 하였다.
+    - Authentication을 활용하여 구글 로그인이 가능하도록 진행했다.
+    - Firestore를 통해 유저 및 기타 데이터를 관리할 수 있게 하였다.
+- ML
+
+## 
 
 
 
