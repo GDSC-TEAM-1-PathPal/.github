@@ -7,7 +7,7 @@ People with disabilities often face significant challenges in their daily transp
 We selected this project to highlight the urgent need for comprehensive solutions to these transportation challenges. PathPal represents our commitment to enhance both physical mobility and information accessibility for people with disabilities through community service and technology.
 
 Offering a platform where volunteers can provide safe transportation and walking assistance, PathPal hopes to significantly ease the daily mobility challenges faced by these individuals and bridge the information gap.
-### Target
+### 🎯 Target
 <img width="319" alt="target" src="https://github.com/GDSC-TEAM-1-PathPal/PathPal-Flutter/assets/68684425/bf0230e9-0c9f-4992-84b3-103cc161bfb9">
 
 ## 👥 Member
@@ -15,7 +15,7 @@ Offering a platform where volunteers can provide safe transportation and walking
 |:---:|:---:|:---:|:---:
 이은지|전창하|전준석|이준서
 
-## App Demo
+## 📱 App Demo
 
 ### 📌 DisabledPerson
 
@@ -59,26 +59,26 @@ Offering a platform where volunteers can provide safe transportation and walking
   </tr>
 </table>
 
-## Architecture
+## 📋 Architecture
 <img width="1032" alt="스크린샷 2024-02-17 오후 10 23 40" src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/a78dfe7c-12f2-4ee0-aabc-6499b84ff042">
 
  - FrontEnd
-   - Flutter를 이용하여 앱 개발을 진행하였다.
-   - 구글 지도 플랫폼을 이용하여 지도 API를 사용하였다.
+   - The app was developed using Flutter.
+   - The Google Maps platform was used to utilize the map API.
 - BackEnd
-  - Firebase를 이용하여 앱 데이터 저장 및 관리를 하였다.
-    - Authentication을 활용하여 구글 로그인이 가능하도록 진행했다.
-    - Firestore를 통해 유저 및 기타 데이터를 관리할 수 있게 하였다.
+  - Firebase was used for app data storage and management.
+    - Google login was facilitated through the use of Authentication.
+    - Firestore was used to manage user and other data.
 - ML
 
-## Execution Method
+## 🛠️ Execution Method
 
 ### For Android User
 1. You can download apk file => [Click Here!](https://drive.google.com/file/d/1oC_NHsz5udntSZruLRWgjBQPuCjOxAWo/view?usp=sharing)
-2. 스마트폰에 설치하여 바로 사용이 가능하다!
+2. It can be installed and used immediately on a smartphone!
 
 #### ❗ ALERT ❗
-챗봇 서비스는 로컬 환경에서 서버를 구동하기 때문에 APK를 통해 설치하면 작동이 안됩니다.
+The chatbot service won't work when installed through the APK as it operates the server in a local environment.
 
 ## ❓ How To Use 
 
@@ -102,8 +102,6 @@ There are times when you're curious about where disabled convenience facilities 
 
 You can leave a thank you note for the volunteers who helped you. Share your warm feelings with a star rating!
 
-<hr>
-
 ### Volunteer
 
 <hr>
@@ -120,8 +118,11 @@ You can check the markers of people who need help nearby. Select a marker, set t
 
 You can check the reviews from those who expressed their gratitude. Read the content and take pride in your good work!
 
+<hr>
 
+## 🤝 Contributing
 
+If you would like to contribute to Femunity, please fork the project on GitHub and submit a pull request.
 
 
 
