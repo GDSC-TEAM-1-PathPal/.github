@@ -122,7 +122,7 @@ You can check the reviews from those who expressed their gratitude. Read the con
 
 ## 🤝 Contributing
 
-If you would like to contribute to Femunity, please fork the project on GitHub and submit a pull request.
+If you would like to contribute to PathPal, please fork the project on GitHub and submit a pull request.
 
 
 
