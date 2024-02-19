@@ -75,7 +75,7 @@ Offering a platform where volunteers can provide safe transportation and walking
 **1. Flask Server**  
     - The Flask server is designed to handle HTTP requests and responses between the client and server through the implementation of REST APIs.
     - Flask acts as the backend for the chatbot service, receiving questions from users, processing them through appropriate logic, and then returning responses.<br/>
-**2. Langchain & OpenAI**  
+    **2. Langchain & OpenAI**  
     - A toolkit for building NLP pipelines, enabling seamless integration of data loading, processing, search, and generation tasks into a unified process.
     - Retrieval-Augmented Generation (RAG): Develop search-based methods to find highly relevant information for a given query—specifically targeting facilities
       for people with disabilities from a CSV dataset, using ChromaDB for efficient data embedding in vector space.
