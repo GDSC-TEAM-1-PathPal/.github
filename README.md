@@ -71,10 +71,10 @@ Offering a platform where volunteers can provide safe transportation and walking
     - Firestore was used to manage user and other data.
       
 - DeepLearning
-  - Chatbot service incorporates a Flask server, Langchain and OpenAI technologies. Below are the details of the technologies used:
+  - Chatbot service incorporates a Flask server, Langchain and OpenAI technologies. Below are the details of the technologies used: <br/>
 **Flask Server**  
     - The Flask server is designed to handle HTTP requests and responses between the client and server through the implementation of REST APIs.
-    - Flask acts as the backend for the chatbot service, receiving questions from users, processing them through appropriate logic, and then returning responses.
+    - Flask acts as the backend for the chatbot service, receiving questions from users, processing them through appropriate logic, and then returning responses. <br/>
 **Langchain & OpenAI**  
     - A toolkit for building NLP pipelines, enabling seamless integration of data loading, processing, search, and generation tasks into a unified process.
     - Retrieval-Augmented Generation (RAG): Develop search-based methods to find highly relevant information for a given query—specifically targeting facilities <br/>
