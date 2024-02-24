@@ -1,5 +1,5 @@
 # PathPal
-<img width="1226" alt="pathpal" src="https://github.com/GDSC-TEAM-1-PathPal/PathPal-Flutter/assets/68684425/d2c70c13-17be-452a-94bc-fbb93c5a8bab">
+<img width="1226" alt="pathpal" src="https://github.com/GDSC-TEAM-1-PathPal/.github/assets/68684425/60aa7104-cc13-4b7b-8028-e936cf73d273">
 
 ## 📢 Introduction
 People with disabilities often face significant challenges in their daily transportation, not only due to inadequate facilities but also a lack of necessary information. PathPal is a pioneering initiative aimed at addressing this critical issue of mobility and information accessibility.
